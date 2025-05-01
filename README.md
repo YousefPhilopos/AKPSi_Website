@@ -1,1 +1,1 @@
-# AKPSi_Website
+This is the preliminary code for the AKPsi Website
